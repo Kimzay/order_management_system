@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+b3bab775d6381ffcc05ef22f5c056a3d832e4c66 refs/heads/feat/changeStucProject
+515b6176f03fdc23e325d1c2839681e44e92e989 refs/heads/feat/tracerSubAttributes
+e6030db0b6e3f92f24558a46fd8f84062ebfb363 refs/heads/feature
+ac658266be583436abec7d2ef8047462a91a9e08 refs/heads/main
+973e1da1e6bdb8c98c962819f80da75addb5f760 refs/pull/1/head
+515b6176f03fdc23e325d1c2839681e44e92e989 refs/pull/3/head
+7ab52941bffac8bfb55ec8bd3e3e754e62f27c58 refs/pull/4/head
+515b6176f03fdc23e325d1c2839681e44e92e989 refs/pull/5/head
+b3bab775d6381ffcc05ef22f5c056a3d832e4c66 refs/pull/6/head
+e6030db0b6e3f92f24558a46fd8f84062ebfb363 refs/pull/7/head
